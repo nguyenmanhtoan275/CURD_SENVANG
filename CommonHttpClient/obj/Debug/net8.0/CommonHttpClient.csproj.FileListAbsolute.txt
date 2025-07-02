@@ -1,0 +1,12 @@
+D:\CURD\CommonHttpClient\bin\Debug\net8.0\CommonHttpClient.deps.json
+D:\CURD\CommonHttpClient\bin\Debug\net8.0\CommonHttpClient.dll
+D:\CURD\CommonHttpClient\bin\Debug\net8.0\CommonHttpClient.pdb
+D:\CURD\CommonHttpClient\obj\Debug\net8.0\CommonHttpClient.csproj.AssemblyReference.cache
+D:\CURD\CommonHttpClient\obj\Debug\net8.0\CommonHttpClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURD\CommonHttpClient\obj\Debug\net8.0\CommonHttpClient.AssemblyInfoInputs.cache
+D:\CURD\CommonHttpClient\obj\Debug\net8.0\CommonHttpClient.AssemblyInfo.cs
+D:\CURD\CommonHttpClient\obj\Debug\net8.0\CommonHttpClient.csproj.CoreCompileInputs.cache
+D:\CURD\CommonHttpClient\obj\Debug\net8.0\CommonHttpClient.dll
+D:\CURD\CommonHttpClient\obj\Debug\net8.0\refint\CommonHttpClient.dll
+D:\CURD\CommonHttpClient\obj\Debug\net8.0\CommonHttpClient.pdb
+D:\CURD\CommonHttpClient\obj\Debug\net8.0\ref\CommonHttpClient.dll
